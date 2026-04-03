@@ -1,0 +1,137 @@
+{
+  "transactionDetail": {
+    "transactionID": "3a775caa-7cf3-43e0-8387-1dc956d944c710734",
+    "transactionTimestamp": "2026-04-03T05:56:26.123Z",
+    "inLanguage": "ko-hang-KR",
+    "serviceVersion": "1"
+  },
+  "inquiryDetail": {
+    "inLanguage": "ko-hang-KR",
+    "registrationNumber": "",
+    "name": "씨제이그룹(주)",
+    "address": {
+      "countryISOAlpha2Code": "KR",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddressLine": {
+        "line1": ""
+      }
+    },
+    "telephoneNumber": "",
+    "url": "",
+    "candidateMaximumQuantity": 1,
+    "customerReference": [
+      "46653651",
+      "3",
+      ""
+    ]
+  },
+  "candidatesMatchedQuantity": 1,
+  "matchDataCriteria": "Name and Address Lookup",
+  "matchCandidates": [
+    {
+      "displaySequence": 1,
+      "organization": {
+        "duns": "695554273",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "씨제이그룹(주)",
+        "tradeStyleNames": [],
+        "telephone": [],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "KR",
+            "name": "Republic Of Korea"
+          },
+          "addressLocality": {
+            "name": "마포구"
+          },
+          "addressRegion": {
+            "name": "서울특별시",
+            "abbreviatedName": null
+          },
+          "postalCode": "03965",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "서울특별시 마포구 월드컵로164, 1층(성산동)",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "6688801666",
+            "typeDescription": "Commercial Registry Business Number (KR)",
+            "typeDnBCode": 1387
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 6,
+        "matchGrade": "AZZZZZZZZFZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00980098989898",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    }
+  ],
+  "cleanseAndStandardizeInformation": {}
+}

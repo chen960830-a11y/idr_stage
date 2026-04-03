@@ -1,0 +1,353 @@
+{
+  "transactionDetail": {
+    "transactionID": "d0393fe0-daa1-4ef0-ae82-baa56e5ff12a23984",
+    "transactionTimestamp": "2026-04-02T09:26:07.525Z",
+    "inLanguage": "zh-hant-TW",
+    "serviceVersion": "1"
+  },
+  "inquiryDetail": {
+    "inLanguage": "zh-hant-TW",
+    "registrationNumber": "",
+    "name": "台灣積體電路製造股份有限公司",
+    "address": {
+      "countryISOAlpha2Code": "TW",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddressLine": {
+        "line1": ""
+      }
+    },
+    "telephoneNumber": "",
+    "url": "",
+    "candidateMaximumQuantity": 3,
+    "customerReference": [
+      "46653652",
+      "4",
+      ""
+    ]
+  },
+  "candidatesMatchedQuantity": 3,
+  "matchDataCriteria": "Name and Address Lookup",
+  "matchCandidates": [
+    {
+      "displaySequence": 1,
+      "organization": {
+        "duns": "656122470",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "台灣積體電路製造股份有限公司",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "035636688",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "TW",
+            "name": "Taiwan"
+          },
+          "addressLocality": {
+            "name": "東"
+          },
+          "addressRegion": {
+            "name": "新竹",
+            "abbreviatedName": null
+          },
+          "postalCode": "300096",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "新竹科學園區力行六路8號",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "22099131",
+            "typeDescription": "Business Registration Number (TW)",
+            "typeDnBCode": 1390
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AZZZZZZZZAZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000000009800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    },
+    {
+      "displaySequence": 2,
+      "organization": {
+        "duns": "656798397",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "台灣積體電路製造股份有限公司六廠",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "065056688",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "TW",
+            "name": "Taiwan"
+          },
+          "addressLocality": {
+            "name": "善化"
+          },
+          "addressRegion": {
+            "name": "台南",
+            "abbreviatedName": null
+          },
+          "postalCode": "741014",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "南科北路1-1號",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch",
+              "dnbCode": 12769
+            }
+          ]
+        }
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AZZZZZZZZAZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000000009800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    },
+    {
+      "displaySequence": 3,
+      "organization": {
+        "duns": "765806873",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "台灣積體電路製造股份有限公司二廠",
+        "tradeStyleNames": [],
+        "telephone": [],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "TW",
+            "name": "Taiwan"
+          },
+          "addressLocality": {
+            "name": "寶山"
+          },
+          "addressRegion": {
+            "name": "新竹",
+            "abbreviatedName": null
+          },
+          "postalCode": "300096",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "園區三路121號",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch",
+              "dnbCode": 12769
+            }
+          ]
+        }
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AZZZZZZZZAZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000000989898",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    }
+  ],
+  "cleanseAndStandardizeInformation": {}
+}

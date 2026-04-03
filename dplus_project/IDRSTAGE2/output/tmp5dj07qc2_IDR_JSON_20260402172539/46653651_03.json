@@ -1,0 +1,351 @@
+{
+  "transactionDetail": {
+    "transactionID": "8e7e94c3-189b-4255-a946-0673d68827f923924",
+    "transactionTimestamp": "2026-04-02T09:25:50.213Z",
+    "inLanguage": "ko-hang-KR",
+    "serviceVersion": "1"
+  },
+  "inquiryDetail": {
+    "inLanguage": "ko-hang-KR",
+    "registrationNumber": "",
+    "name": "씨제이그룹(주)",
+    "address": {
+      "countryISOAlpha2Code": "KR",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddressLine": {
+        "line1": ""
+      }
+    },
+    "telephoneNumber": "",
+    "url": "",
+    "candidateMaximumQuantity": 3,
+    "customerReference": [
+      "46653651",
+      "3",
+      ""
+    ]
+  },
+  "candidatesMatchedQuantity": 3,
+  "matchDataCriteria": "Name and Address Lookup",
+  "matchCandidates": [
+    {
+      "displaySequence": 1,
+      "organization": {
+        "duns": "695554273",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "씨제이그룹(주)",
+        "tradeStyleNames": [],
+        "telephone": [],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "KR",
+            "name": "Republic Of Korea"
+          },
+          "addressLocality": {
+            "name": "마포구"
+          },
+          "addressRegion": {
+            "name": "서울특별시",
+            "abbreviatedName": null
+          },
+          "postalCode": "03965",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "서울특별시 마포구 월드컵로164, 1층(성산동)",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "6688801666",
+            "typeDescription": "Commercial Registry Business Number (KR)",
+            "typeDnBCode": 1387
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 6,
+        "matchGrade": "AZZZZZZZZFZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00980098989898",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    },
+    {
+      "displaySequence": 2,
+      "organization": {
+        "duns": "987594748",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "(주)제이씨그룹",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "07086305862",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "KR",
+            "name": "Republic Of Korea"
+          },
+          "addressLocality": {
+            "name": "성남시"
+          },
+          "addressRegion": {
+            "name": "경기도",
+            "abbreviatedName": null
+          },
+          "postalCode": "13216",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "경기도 성남시 중원구 둔촌대로 531, 비동 707호 (상대원동, 쌍용아이티트윈타워)",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "1568800131",
+            "typeDescription": "Commercial Registry Business Number (KR)",
+            "typeDnBCode": 1387
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "BZZZZZZZZFZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "B"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000098989800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    },
+    {
+      "displaySequence": 3,
+      "organization": {
+        "duns": "695556265",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "(주)제이씨그룹",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "025550914",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "KR",
+            "name": "Republic Of Korea"
+          },
+          "addressLocality": {
+            "name": "강남구"
+          },
+          "addressRegion": {
+            "name": "서울특별시",
+            "abbreviatedName": null
+          },
+          "postalCode": "06234",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "서울특별시 강남구 테헤란로10길9, 8층(역삼동, 그랑프리빌딩)",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "4428701693",
+            "typeDescription": "Commercial Registry Business Number (KR)",
+            "typeDnBCode": 1387
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "BZZZZZZZZFZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "B"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000098989800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    }
+  ],
+  "cleanseAndStandardizeInformation": {}
+}

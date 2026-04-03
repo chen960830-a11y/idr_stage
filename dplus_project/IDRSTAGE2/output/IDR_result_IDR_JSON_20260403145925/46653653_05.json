@@ -1,0 +1,142 @@
+{
+  "transactionDetail": {
+    "transactionID": "1837d0e0-9077-488a-a5bd-31966e07627211014",
+    "transactionTimestamp": "2026-04-03T06:59:28.756Z",
+    "inLanguage": "zh-hans-CN",
+    "serviceVersion": "1"
+  },
+  "inquiryDetail": {
+    "inLanguage": "zh-hans-CN",
+    "registrationNumber": "",
+    "name": "浙江三花智能控制股份有限公司",
+    "address": {
+      "countryISOAlpha2Code": "CN",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddressLine": {
+        "line1": ""
+      }
+    },
+    "telephoneNumber": "",
+    "url": "",
+    "candidateMaximumQuantity": 1,
+    "customerReference": [
+      "46653653",
+      "5",
+      ""
+    ]
+  },
+  "candidatesMatchedQuantity": 1,
+  "matchDataCriteria": "Name and Address Lookup",
+  "matchCandidates": [
+    {
+      "displaySequence": 1,
+      "organization": {
+        "duns": "544771496",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "浙江三花智能控制股份有限公司",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "057586255360",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "CN",
+            "name": "China"
+          },
+          "addressLocality": {
+            "name": "绍兴"
+          },
+          "addressRegion": {
+            "name": "浙江",
+            "abbreviatedName": null
+          },
+          "postalCode": "312530",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "澄潭街道沃西大道219号三花工业园区办公大楼",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "913300006096907427",
+            "typeDescription": "United Social Credit Code (CN)",
+            "typeDnBCode": 32476
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AZZZZZZZZAZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000000009800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    }
+  ],
+  "cleanseAndStandardizeInformation": {}
+}

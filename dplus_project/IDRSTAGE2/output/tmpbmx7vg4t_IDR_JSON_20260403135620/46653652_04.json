@@ -1,0 +1,142 @@
+{
+  "transactionDetail": {
+    "transactionID": "78a2d39d-a644-418b-8a2a-d50b5796ecca10684",
+    "transactionTimestamp": "2026-04-03T05:56:27.863Z",
+    "inLanguage": "zh-hant-TW",
+    "serviceVersion": "1"
+  },
+  "inquiryDetail": {
+    "inLanguage": "zh-hant-TW",
+    "registrationNumber": "",
+    "name": "台灣積體電路製造股份有限公司",
+    "address": {
+      "countryISOAlpha2Code": "TW",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddressLine": {
+        "line1": ""
+      }
+    },
+    "telephoneNumber": "",
+    "url": "",
+    "candidateMaximumQuantity": 1,
+    "customerReference": [
+      "46653652",
+      "4",
+      ""
+    ]
+  },
+  "candidatesMatchedQuantity": 1,
+  "matchDataCriteria": "Name and Address Lookup",
+  "matchCandidates": [
+    {
+      "displaySequence": 1,
+      "organization": {
+        "duns": "656122470",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "台灣積體電路製造股份有限公司",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "035636688",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "TW",
+            "name": "Taiwan"
+          },
+          "addressLocality": {
+            "name": "東"
+          },
+          "addressRegion": {
+            "name": "新竹",
+            "abbreviatedName": null
+          },
+          "postalCode": "300096",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "新竹科學園區力行六路8號",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "22099131",
+            "typeDescription": "Business Registration Number (TW)",
+            "typeDnBCode": 1390
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AZZZZZZZZAZ",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "Z"
+          }
+        ],
+        "matchDataProfile": "00000000009800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    }
+  ],
+  "cleanseAndStandardizeInformation": {}
+}

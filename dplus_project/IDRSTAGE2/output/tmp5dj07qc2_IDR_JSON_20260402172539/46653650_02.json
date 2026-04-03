@@ -1,0 +1,357 @@
+{
+  "transactionDetail": {
+    "transactionID": "c6a86906-f473-4732-ac59-14e33df7b80624089",
+    "transactionTimestamp": "2026-04-02T09:25:47.569Z",
+    "inLanguage": "ja-JP",
+    "serviceVersion": "1"
+  },
+  "inquiryDetail": {
+    "inLanguage": "ja-JP",
+    "registrationNumber": "",
+    "name": "株式会社ユニオンメディカル",
+    "address": {
+      "countryISOAlpha2Code": "JP",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "streetAddressLine": {
+        "line1": "1-7 Nihonbashi Kabutocho, Chuo-ku, Tokyo"
+      }
+    },
+    "telephoneNumber": "",
+    "url": "",
+    "candidateMaximumQuantity": 3,
+    "customerReference": [
+      "46653650",
+      "2",
+      ""
+    ]
+  },
+  "candidatesMatchedQuantity": 3,
+  "matchDataCriteria": "Name and Address Lookup",
+  "matchCandidates": [
+    {
+      "displaySequence": 1,
+      "organization": {
+        "duns": "700965056",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "ユニオンメディカル（株）",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "0424432733",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "JP",
+            "name": "Japan"
+          },
+          "addressLocality": {
+            "name": "調布市"
+          },
+          "addressRegion": {
+            "name": "東京都",
+            "abbreviatedName": null
+          },
+          "postalCode": "182-0034",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "下石原１－４１－１０",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "1012401010360",
+            "typeDescription": "Corporate Number (JP)",
+            "typeDnBCode": 32475
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AFZZZZZZZFA",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "A"
+          }
+        ],
+        "matchDataProfile": "00000000009800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    },
+    {
+      "displaySequence": 2,
+      "organization": {
+        "duns": "695494625",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "（株）ユニオンメディカル",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "0334317411",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "JP",
+            "name": "Japan"
+          },
+          "addressLocality": {
+            "name": "港区"
+          },
+          "addressRegion": {
+            "name": "東京都",
+            "abbreviatedName": null
+          },
+          "postalCode": "105-0012",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "芝大門１－４－１０",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {
+          "familytreeRolesPlayed": [
+            {
+              "description": "Branch",
+              "dnbCode": 12769
+            }
+          ]
+        }
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AFZZZZZZZFA",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "A"
+          }
+        ],
+        "matchDataProfile": "00000000009800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    },
+    {
+      "displaySequence": 3,
+      "organization": {
+        "duns": "692757123",
+        "websiteAddress": [],
+        "dunsControlStatus": {
+          "operatingStatus": {
+            "description": "Active",
+            "dnbCode": 9074
+          },
+          "isMailUndeliverable": null
+        },
+        "primaryName": "（株）ユニオンメディカル",
+        "tradeStyleNames": [],
+        "telephone": [
+          {
+            "telephoneNumber": "0332951571",
+            "isUnreachable": null
+          }
+        ],
+        "primaryAddress": {
+          "addressCountry": {
+            "isoAlpha2Code": "JP",
+            "name": "Japan"
+          },
+          "addressLocality": {
+            "name": "千代田区"
+          },
+          "addressRegion": {
+            "name": "東京都",
+            "abbreviatedName": null
+          },
+          "postalCode": "101-0064",
+          "postalCodeExtension": null,
+          "streetAddress": {
+            "line1": "神田猿楽町２－８－１６平田ビル５Ｆ",
+            "line2": null
+          }
+        },
+        "mailingAddress": {},
+        "registrationNumbers": [
+          {
+            "registrationNumber": "5010001068642",
+            "typeDescription": "Corporate Number (JP)",
+            "typeDnBCode": 32475
+          }
+        ],
+        "mostSeniorPrincipals": [],
+        "isStandalone": null,
+        "corporateLinkage": {}
+      },
+      "matchQualityInformation": {
+        "confidenceCode": 5,
+        "matchGrade": "AFZZZZZZZFA",
+        "matchGradeComponentsCount": 11,
+        "matchGradeComponents": [
+          {
+            "componentType": "Name",
+            "componentRating": "A"
+          },
+          {
+            "componentType": "Street Number",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Street Name",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "City",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "State",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "PO Box",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Phone",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Postal Code",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Density",
+            "componentRating": "Z"
+          },
+          {
+            "componentType": "Uniqueness",
+            "componentRating": "F"
+          },
+          {
+            "componentType": "Sic",
+            "componentRating": "A"
+          }
+        ],
+        "matchDataProfile": "00020202029800",
+        "matchDataProfileComponentsCount": 7,
+        "matchDataProfileComponents": [],
+        "nameMatchScore": null
+      }
+    }
+  ],
+  "cleanseAndStandardizeInformation": {}
+}
